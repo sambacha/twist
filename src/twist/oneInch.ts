@@ -9,7 +9,7 @@ import {
   TradeResponse
 } from "./types";
 
-const ONE_INCH_BASE_URL = "https://api.1inch.exchange/v1.1";
+const ONE_INCH_BASE_URL = "https://api.1inch.exchange/v2.0";
 
 // fetchTokens types
 interface Token {
